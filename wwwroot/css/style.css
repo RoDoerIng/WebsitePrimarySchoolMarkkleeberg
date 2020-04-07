@@ -3,6 +3,12 @@ body,
 header,
 #intro {
     height: 100%;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.school-on-move{
+  font-family: 'Indie Flower', cursive;
+  font-size: 3em;
 }
 
 section{
