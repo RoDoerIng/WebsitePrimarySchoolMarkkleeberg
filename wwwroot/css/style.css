@@ -25,14 +25,4 @@ section{
 
 .top-nav-collapse {
     background-color: #0E9961;
-  }
-  @media (max-width: 768px) {
-    .navbar:not(.top-nav-collapse) {
-      background-color: #0E9961;
-    }
-  }
-  @media (min-width: 800px) and (max-width: 850px) {
-    .navbar:not(.top-nav-collapse) {
-      background-color: #0E9961;
-    }
-  }
+}
